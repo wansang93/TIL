@@ -1,16 +1,19 @@
-# 제목
+# Title
 
 [00-Sep-2020 Thu]
 
-## 오늘 한 일
+## Today I Learned Coding
 
-- 
-- 
+1. a
+2. b
+3. c
 
-## 오늘의 배운 점
+## Today I Learned Everything
 
+## TO DO NEXT
 
+## Summary Yesterday I Learned 
 
-## 다음에 할 일
-
-## 어제 한 일 요약
+1. a
+2. b
+3. c
