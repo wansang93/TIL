@@ -12,7 +12,7 @@
 
 ## TO DO NEXT
 
-## Summary Yesterday I Learned 
+## Summary I Learned Yesterday
 
 1. a
 2. b
