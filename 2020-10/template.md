@@ -1,6 +1,6 @@
 # Title
 
-[00-Sep-2020 Thu]
+[01-Oct-2020 Thu]
 
 ## Today I Learned Coding
 
@@ -12,7 +12,7 @@
 
 ## TO DO NEXT
 
-## Summary I Learned Yesterday
+## Summary I Learned Yesterday(on last weekend)
 
 1. a
 2. b
