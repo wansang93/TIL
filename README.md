@@ -2,14 +2,14 @@
 
 Today I learned
 
-## 주간 정리
-
 ## TIL
 
 - [2020-10-03 Linux 04-08](./2020-10/201003.md)
+- [2020-10-04 Linux 04-10](./2020-10/201004.md)
+- 
 
 <details>
-<summary>2020 September</summary>
+<summary>[Click] 2020 September</summary>
 
 - [2020-09-07 기록 시작](./2020-09/200907.md)
 - [2020-09-08 코딩 테스트 준비](./2020-09/200908.md)
