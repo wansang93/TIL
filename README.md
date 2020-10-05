@@ -6,7 +6,7 @@ Today I learned
 
 - [2020-10-03 Linux 04-08](./2020-10/201003.md)
 - [2020-10-04 Linux 04-10](./2020-10/201004.md)
-- 
+- [2020-10-05 Linux 04-13](./2020-10/201005.md)
 
 <details>
 <summary>[Click] 2020 September</summary>
