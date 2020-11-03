@@ -1,8 +1,17 @@
 # TIL
 
+Today I learned
+
+<details>
+<summary>[Click] 2020 November</summary>
+
+- [2020-11-03 TIL 양식 변경](./2020-11/201103.md)
 - [2020-11-01 Linux 06-04](./2020-11/201101.md)
 
-Today I learned
+</details>
+
+<details>
+<summary>[Click] 2020 October</summary>
 
 - [2020-10-26 Linux 06-03, SW인재 통합공채 코딩테스트](./2020-10/201026.md)
 - [2020-10-23 Linux 06-01](./2020-10/201023.md)
@@ -14,6 +23,8 @@ Today I learned
 - [2020-10-05 Linux 04-13](./2020-10/201005.md)
 - [2020-10-04 Linux 04-10](./2020-10/201004.md)
 - [2020-10-03 Linux 04-08](./2020-10/201003.md)
+
+</details>
 
 <details>
 <summary>[Click] 2020 September</summary>
