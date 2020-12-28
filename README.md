@@ -2,6 +2,8 @@
 
 Today I learned
 
+- [Cloud](./Cloud/README.md)
+
 <details>
 <summary>[Click] 2020 Desember</summary>
 
