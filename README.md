@@ -1,6 +1,4 @@
-# TIL
-
-Today I learned
+# Today I Learnt
 
 - [Cloud](./Cloud/README.md)
 
