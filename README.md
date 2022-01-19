@@ -50,6 +50,7 @@ Record the knowledge that I don't want to pass once.
 
 - 게임으로 배우는 선택자 링크 -> <https://flukeout.github.io/>
 - 어떤 속성값이 어떤 브라우저에서 동작하는지 알아보는 링크 -> <https://caniuse.com/>
+- HTML, CSS, JS 템플릿 링크 -> <https://codepen.io/>
 
 ### JavaScirpt
 

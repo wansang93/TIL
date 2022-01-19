@@ -11,7 +11,9 @@
 - [220110](./220110.md) Design Thinking1
 - [220111](./220111.md) Design Thinking2
 - [220112](./220112.md) Learn JAVA Basic(Data type, Increment and Decrement Operators), Setting Java
-- [220113](./220113.md) Learn JAVA Basic2(Conditional, Loop, Array)
-- [220114] N-th Array, HTML
-- [220115] CSS, Introduce myself
-- [220117](./220117.md) Java Basic(반복문, 조건문, 연산자, 변수 데이터 타입, 배열, 다차원 배열)
+- [220113](./220113.md) Learn JAVA Basic(Conditional, Loop Statement, Array)
+- 220114 N-th Array, HTML
+- 220115 CSS, Introduce myself
+- [220117](./220117.md) Java Basic Repeat(Data type, Increment and Decrement Operators)
+- [220118](./220118.md) Java Basic(OOP, Memory, Array)
+- [220119](./220119.md) Java Basic Repeat(OOP, Memory, N-th Array, 4-directions)
