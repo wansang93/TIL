@@ -5,15 +5,21 @@
 
 ## Contents
 
-- [220105](./220105.md) SSAFY OT
-- [220106](./220106.md) Game coding on WizLab Website
-- [220107](./220107.md) Build Coding Team Project
-- [220110](./220110.md) Design Thinking1
-- [220111](./220111.md) Design Thinking2
-- [220112](./220112.md) Learn JAVA Basic(Data type, Increment and Decrement Operators), Setting Java
-- [220113](./220113.md) Learn JAVA Basic(Conditional, Loop Statement, Array)
-- 220114 N-th Array, HTML
-- 220115 CSS, Introduce myself
-- [220117](./220117.md) Java Basic Repeat(Data type, Increment and Decrement Operators)
-- [220118](./220118.md) Java Basic(OOP, Memory, Array)
-- [220119](./220119.md) Java Basic Repeat(OOP, Memory, N-th Array, 4-directions)
+- Week 01
+  - [220105](./DailyNote/220105.md) SSAFY OT
+  - [220106](./DailyNote/220106.md) Game coding on WizLab Website
+  - [220107](./DailyNote/220107.md) Build Coding Team Project
+- Week 02
+  - [220110](./DailyNote/220110.md) Design Thinking1
+  - [220111](./DailyNote/220111.md) Design Thinking2
+  - [220112](./DailyNote/220112.md) Learn Java(Data type, Increment and Decrement Operators), Setting Java
+  - [220113](./DailyNote/220113.md) Learn Java(Conditional, Loop Statement, Array)
+  - 220114 N-th Array, HTML, CSS, Introduce myself
+- Week 03
+  - [220117](./DailyNote/220117.md) Repeat Java(Data type, Increment and Decrement Operators)
+  - [220118](./DailyNote/220118.md) Learn Java(OOP, Memory, Method, Constructor)
+  - [220119](./DailyNote/220119.md) Repeat Java(OOP(this), Constructor, N-th Array, 4-directions)
+  - [220120](./DailyNote/220120.md) Learn Java(Inheritance, Overriding, Pacakge & Import, Access modifier, Polymorphism)
+  - [220121](./DailyNote/220121.md) Repeat Java(Polymorphism)
+- Week 04
+  - [220124](./DailyNote/220124.md) ㅇㅇ
