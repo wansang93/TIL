@@ -11,6 +11,10 @@ Record the knowledge that I don't want to pass once.
 
 ## [SSAFY 7th](./SSAFY/README.md)
 
+## Git
+
+- [Git 개발방법론: Git-flow](https://techblog.woowahan.com/2553/)
+
 ## KaKao
 
 - [2021 if(kakao) 기술 세션 주제별 모아보기](https://tech.kakao.com/2021/11/17/ifkakao2021/)
@@ -19,6 +23,16 @@ Record the knowledge that I don't want to pass once.
 ## Books
 
 - [2021-02-07 Code](./Books/Code/Code.md)
+
+## Languages
+
+- [Java Tips and Tricks | Java Tutorial for Beginners](https://www.youtube.com/watch?v=xWBcGCKVOQA)
+- [11 Tips And Tricks To Write Better Python Code](https://www.youtube.com/watch?v=8OKTAedgFYg)
+
+## CS
+
+- Harverd CS50 Lectures -> <https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8>
+- [Why is 0.1 + 0.2 Not Equal to 0.3 in Most Programming Languages?](https://betterprogramming.pub/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476)
 
 ## Understand What is Micro Service Architecture
 
@@ -54,6 +68,7 @@ Record the knowledge that I don't want to pass once.
 
 ### JavaScirpt
 
+- 바닐라 자바스크립트 장점 <http://vanilla-js.com/>
 - [드림코딩 by 앨리: 자바스크립트 기초 강의 (ES5+)](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 - [코딩애플: 웹개발로 배우는 자바스크립트 기초](https://www.youtube.com/playlist?list=PLfLgtT94nNq0svPBSslzReYKbZRuv_-NK)
 
@@ -88,9 +103,12 @@ Record the knowledge that I don't want to pass once.
 
 - 생활코딩 리엑트 유튜브 링크 -> [https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
 - 벨로퍼트와 함께하는 모던 리액트 배우기 링크 -> [https://react.vlpt.us/](https://react.vlpt.us/)
+- 노마드코더 리엑트 강의 -> <https://www.youtube.com/watch?v=JtHRa-4MTG4&list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf>
 
-## 퀀텀 컴퓨터
+## 컴퓨터
 
+- [안될과학: 컴퓨터의 구조는 어떻게 되어있을까?](https://www.youtube.com/watch?v=SiC74U8aJbM)
+- [안될과학: 양자컴퓨터 원리와 구글의 양자컴퓨터가 대박인 이유](https://www.youtube.com/watch?v=bJFye8e6JxY)
 - [The Map of Quantum Computing](https://www.youtube.com/watch?v=-UlxHPIEVqA)
 
 ## 영어 관련 링크
@@ -106,22 +124,14 @@ Record the knowledge that I don't want to pass once.
 - [삼각함수 초등학생도 이해하는 링크](https://www.youtube.com/watch?v=VMrT1wwXxY0)
 - [제논의 역설(무한의 시작)](https://www.youtube.com/watch?v=-FLMkwrAoXs)
 - [칸토어(무한의 창시자(?))](https://www.youtube.com/watch?v=NfCIR6TgSFw&list=PL127T2Zu76FtYKMJqhX4cE-kzGqR302_y&index=16)
-
-### 수학 유튜버들
-
-- [이상엽 쌤](https://www.youtube.com/channel/UC-7H7ZImLfGF97Y_EJ0vZzA)
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-- [3Blue1Brown 한국어](https://www.youtube.com/channel/UCJK07Uk2KY9r78ksPoXg-3g)
-- [MindYourDesisions](https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g)
-- [인공지능수학깨봉](https://www.youtube.com/channel/UCufMvGtKg2hoTs0h1Ti5cxg)
+- [순열, 조합, 중복순열, 중복조합의 의미](https://orbi.kr/0004410969)
 
 ## Link memo for Code
 
+- URL String Conversion -> <https://coderstoolbox.net/string>
 - 아이콘 만들어주는 사이트 참고 링크 -> <https://simpleicons.org>
-- [Why is 0.1 + 0.2 Not Equal to 0.3 in Most Programming Languages?](https://betterprogramming.pub/why-is-0-1-0-2-not-equal-to-0-3-in-most-programming-languages-99432310d476)
 - 5가지 자바스크립트 스타일 가이드 -> <https://devhaeyeon.github.io/2017/12/03/five-js-styleguide/>
-- 노마드코더 리엑트 강의 -> <https://www.youtube.com/watch?v=JtHRa-4MTG4&list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf>
-- jupiter notebook 예쁘게 적고 사용하는 방법 링크 -> [블로그](https://medium.com/@john_analyst/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98-%EA%BF%80%ED%8C%81%EB%93%A4-4a40d406f07e)
+- jupiter notebook 예쁘게 적고 사용하는 방법 링크 -> [블로그](https://john-analyst.medium.com/주피터-노트북의-꿀팁들-4a40d406f07e)
 - how to write github 커밋 메시지 링크 -> <https://blog.ull.im/engineering/2019/03/10/logs-on-git.html>
 - 파이썬 효율적인 코드 연습(performance, memory and usability) 링크 -> [blog](https://www.codementor.io/@satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 - 클린 코드 작성법 강의 링크 -> <https://www.youtube.com/watch?v=Jz8Sx1XYb04>
@@ -129,7 +139,7 @@ Record the knowledge that I don't want to pass once.
 - set keyboard shortcuts in vscode 링크 -> <https://code.visualstudio.com/docs/getstarted/keybindings>
 - keyboard shortcuts table in vscode 링크 -> <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
 - CDN이란? -> <https://goddaehee.tistory.com/173>
-- 사용중인 포트번호 확인, 중지하는 방법 -> <https://studyforus.tistory.com/244#:~:text=%EC%82%AC%EC%9A%A9%EC%A4%91%EC%9D%B8%20%ED%8F%AC%ED%8A%B8%EB%A5%BC%20%ED%99%95%EC%9D%B8,%2Dn%2C%20%2Do%20%EC%9E%85%EB%8B%88%EB%8B%A4.>
+- 사용중인 포트번호 확인, 중지하는 방법 -> <https://studyforus.tistory.com/244>
 
 ## 옛날 일기장
 
