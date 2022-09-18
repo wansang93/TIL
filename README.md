@@ -125,6 +125,7 @@ Record the knowledge that I don't want to pass once.
 - [제논의 역설(무한의 시작)](https://www.youtube.com/watch?v=-FLMkwrAoXs)
 - [칸토어(무한의 창시자(?))](https://www.youtube.com/watch?v=NfCIR6TgSFw&list=PL127T2Zu76FtYKMJqhX4cE-kzGqR302_y&index=16)
 - [순열, 조합, 중복순열, 중복조합의 의미](https://orbi.kr/0004410969)
+- [세상에서 가장 아름다운 수식을 이해해보자 (이과용)](https://www.youtube.com/watch?v=kgTSUZjVqas)
 
 ## Link memo for Code
 

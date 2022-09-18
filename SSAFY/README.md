@@ -1,11 +1,22 @@
 # SSAFY 7th
 
 - Samsung Software Academy For Youth
-- Period: 2022-01-05 ~
+- Period: 2022-01-05 ~ 2022-07-14(125일, 1000시간)
 
 ## Contents
 
+- Week 15(Spring)
+- Week 14(Algorithm6)
+- Week 13(Algorithm5)
+- Week 12(Web Back-end)
+- Week 11(DB)
+  - [220321] Project
+  - [220318] DB Objects, DB Modeling
+  - [220317] Join, subQuery, Table, Index, View
+  - [220316] Join / SubQuery
+  - [220315] RDBMS, SQL(DDL, DML, DCL, TCL)
 - Week 10(Web Front-end)
+  - [220314] BootStrap
   - [220311] Project
   - [220310] JSON, LocalStorage, jQuery
   - [220308] JavaScript
@@ -19,11 +30,11 @@
   - [220225] Exercise
   - [220224] Dijkstra with PriorityQueue, 문자열 패턴
   - [220223] Exercise
-  - [220222] 
-  - [220221] 
+  - [220222] Kruskal, Prim
+  - [220221] BFS, DFS, disjoint sets
 - Week 07(Algorithm3)
   - [220218] Exercise
-  - [220217] Devide and Conquer, Backtracking, 
+  - [220217] Devide and Conquer, Backtracking, graph
   - [220216] Exercise
   - [220215] PowerSet, Generating Subsets Lexicographically with Binary Numbers and Cyclic Shifts, Greedy
   - [220214] Comparable/Comparator, BitMaking, Next Permutation
